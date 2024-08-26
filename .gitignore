@@ -1,9 +1,0 @@
-# Ignore everything
-*
-# Except these files
-!index.html
-!main.dart.js
-!favicon.png
-!assets/**
-!icons/**
-!manifest.json
